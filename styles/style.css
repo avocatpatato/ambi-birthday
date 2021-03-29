@@ -1,0 +1,17 @@
+html {
+    font-size: medium;
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #f1f1f1;
+    color: #4a4949;
+}
+
+body {
+    width: max-content;
+    margin: auto;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
